@@ -1,0 +1,12 @@
+name: wekanapi
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+
+authors:
+  - Chris F Ravenscroft <chris@voilaweb.com>
+
+license: MIT
