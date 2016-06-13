@@ -12,6 +12,8 @@ You will notice that, for now, the source tree comes with mongo and bson binding
 
 Run; curl to URL.
 
+API reference: http://fusion.github.io/wekanapi/
+
 ## Contributing
 
 1. Fork it ( https://github.com/fusion/wekanapi/fork )
